@@ -1,10 +1,13 @@
 
-package com.sqa.ay;
+package com.sqa.ay.helpers.data;
 
 import java.io.*;
 import java.sql.*;
 import java.util.*;
 import java.util.regex.*;
+
+import com.sqa.ay.*;
+import com.sqa.ay.helpers.*;
 
 public class DataHelper {
 

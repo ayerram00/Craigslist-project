@@ -1,5 +1,5 @@
 
-package com.sqa.ay;
+package com.sqa.ay.helpers;
 
 public class DisplayHelper {
 
